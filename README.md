@@ -54,7 +54,19 @@ L'APK de démonstration est disponible dans la section **[Releases](https://gith
 
 ## Compte de démonstration
 
-> *Identifiants à venir — contacte-moi directement pour obtenir un accès de démo.*
+Trois comptes sont disponibles selon ce que tu veux explorer :
+
+| Rôle | Email | Mot de passe |
+|---|---|---|
+| Président | demo.president@coperf.app | Demo1234! |
+| Coach | demo.coach@coperf.app | Demo1234! |
+| Athlète | demo.athlete@coperf.app | Demo1234! |
+
+**Président** — Vue globale du club : gestion des membres, des coachs et des groupes, accès à tous les canaux de messagerie (club, coachs, groupes d'entraînement), suivi des abonnements.
+
+**Coach** — Gestion d'un groupe d'athlètes : planification des entraînements, inscription aux compétitions, suivi des performances, messagerie avec les athlètes du groupe.
+
+**Athlète** — Vue personnelle : calendrier des entraînements et compétitions, historique des performances, déclaration d'indisponibilités, messagerie avec le coach.
 
 ---
 
