@@ -25,6 +25,7 @@ Application mobile de gestion complète pour clubs d'athlétisme : planification
 - **Inscriptions aux compétitions** : gestion des engagements par l'entraîneur
 - **Indisponibilités** : déclaration de blessures, vacances et absences avec validation
 - **Abonnements clubs** : intégration Stripe avec gestion du cycle de vie (Blaze plan Firebase)
+- **Mode sombre** : thème clair/sombre sur l'ensemble de l'application
 - **Notifications push** : alertes pour les entraînements, compétitions et messages
 
 ---
