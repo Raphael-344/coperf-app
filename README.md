@@ -32,8 +32,7 @@ Application mobile de gestion complète pour clubs d'athlétisme : planification
 
 ## Chiffres clés
 
-- ~1 200 athlètes actifs suivis
-- 2 clubs en production
+- Architecture testée et validée à l'échelle de 1 200 athlètes
 - 35+ disciplines athlétiques (référentiel FFA complet)
 - Support multi-groupes et multi-rôles simultanés
 
